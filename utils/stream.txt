@@ -1,0 +1,11 @@
+rtsp://admin:gspe123456@192.168.0.100:554/streaming/channels/101
+rtsp://admin:gspe123456@192.168.0.100:554/streaming/channels/201
+rtsp://admin:gspe123456@192.168.0.100:554/streaming/channels/301
+rtsp://admin:gspe123456@192.168.0.100:554/streaming/channels/401
+rtsp://admin:gspe123456@192.168.0.100:554/streaming/channels/501
+rtsp://admin:gspe123456@192.168.0.100:554/streaming/channels/601
+rtsp://admin:gspe123456@192.168.0.100:554/streaming/channels/701
+rtsp://admin:gspe123456@192.168.0.100:554/streaming/channels/801
+rtsp://admin:gspe123456@192.168.0.100:554/streaming/channels/901
+rtsp://admin:gspe123456@192.168.0.100:554/streaming/channels/1001
+
